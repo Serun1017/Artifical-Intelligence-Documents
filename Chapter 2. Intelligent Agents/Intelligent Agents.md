@@ -16,7 +16,6 @@
 # [[PEAS]]
 
 - PEAS는 에이전트의 동작과 행동을 이해하고 모델링하는데 사용되며, 에이전트의 목적과 목표를 멍확하게 정의하는데 도움이 된다.
-
 ---
 # [[Environment Types]]
 
@@ -28,7 +27,6 @@
   4. Episodic vs Sequential
   5. Static vs Dynamic
   6. Discrete vs Continuous
-
 ---
 # [[Agent Types]]
 
