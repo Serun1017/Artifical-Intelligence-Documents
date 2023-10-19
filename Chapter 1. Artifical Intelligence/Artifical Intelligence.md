@@ -10,6 +10,7 @@
 - Systems that act rationally (합리적으로 행동하는 시스템)
 ---
 # 예시
+
 Acting humanly의 예제
 - [[튜링 테스트(Turing Test)]]
 
@@ -23,4 +24,5 @@ Acting rationally의 예제
 - [[합리적 행동(Rational behavior)]]
 ---
 # [[Intelligent Agents]]
+
 - 특정 환경에서 목표를 달성하기 위해 행동하고 결정을 내리는 시스템 또는 개체

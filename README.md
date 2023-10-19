@@ -2,6 +2,7 @@
 
 ---
 작성자: 세종대학교 소프트웨어학과 19011625 허진수
+
 최근 업로드: 2023.10.19
 
 ---
@@ -15,7 +16,6 @@
 ## Chapter 2. [[Intelligent Agents]]
 ## Chapter 3. [[Problem Solved and Search]]
 ## Chapter 4. [[Informed Search Algorithms]]
-
 
 ---
 # 부록

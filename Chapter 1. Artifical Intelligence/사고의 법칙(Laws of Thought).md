@@ -11,7 +11,8 @@
 	- 수학과 철학이 현대 AI로 이어지는 중요한 발전 선상에 있다. 
 	- 논리학, 수학적 추론 등의 원리는 현대 AI의 발전에 큰 영향을 미쳤다.
 
-### Problem
+# Problem
+
 1. Not all intelligent behavior is mediated by logical deliberation
 	- 모든 지능적인 행동이 논리적 심사를 통해 이뤄지는 것은 아니다.
 	- 일부 행동은 논리가 아닌 감점에 의해 행동이 이뤄진다.
